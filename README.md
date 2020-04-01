@@ -1,1 +1,1 @@
-# jquery
+# jquery-file-upload exploit
